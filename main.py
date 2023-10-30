@@ -89,4 +89,4 @@ while play_again != "q":
       print("\nMaybe next time!")
       print(f"The word was: {colored(word, 'green')}")
 
-  play_agian = input("Press q to quit or any other key to play again\n")
+  play_again = input("Press q to quit or any other key to play again\n")
