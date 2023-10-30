@@ -4,7 +4,7 @@ from termcolor import colored
 
 
 def print_menu():
-  print ("Let's Play wordle")
+  print ("Let's Play Wordle")
   print ("Type 5 letters to guess the word\n")
 
 #Selects Random Word
