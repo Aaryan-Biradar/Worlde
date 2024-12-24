@@ -23,20 +23,20 @@ pip install termcolor random-words nltk
 
 ## How to Play
 
-- 1. Run the Python script:
+- 1 Run the Python script:
 ```bash
   python wordle.py
 ```
-- 2. The game will prompt you to guess a 5-letter word.
+- 2 The game will prompt you to guess a 5-letter word.
 
-- 3. After each guess, you will see color-coded feedback:
+- 3 After each guess, you will see color-coded feedback:
   - Green means the letter is correct and in the correct position.
   - Yellow means the letter is correct but in the wrong position.
   - Red means the letter is incorrect.
 
-- 4. You have 6 attempts to guess the word. If you guess the word correctly, you win; otherwise, the game will reveal the word at the end.
+- 4 You have 6 attempts to guess the word. If you guess the word correctly, you win; otherwise, the game will reveal the word at the end.
 
-- 5. After completing a game, you can press `q` to quit or any other key to play again.
+- 5 After completing a game, you can press `q` to quit or any other key to play again.
 
 ## Code Explanation
 
